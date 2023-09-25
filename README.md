@@ -2,6 +2,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -24,6 +25,9 @@
   </ul>
 </div>
 
+<a target="_blank" align="center">
+  <img align="right" top="450" height="280" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 <!--Intro start-->
 - 🔭 I’m currently working on **React, Nestjs, Nodejs, Postgres, Java, Tailwind CSS, Typescript, Javascript**
@@ -37,7 +41,7 @@
 - 📫 Feel free to reach me out **suryafeb082000@gmail.com**
 <!--Intro end-->
 
-
+<br>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
