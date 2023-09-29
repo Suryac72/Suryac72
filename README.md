@@ -26,7 +26,7 @@
 </div>
 
 <a target="_blank" align="center">
-  <img align="right" top="450" height="280" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="450" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 <!--Intro start-->
