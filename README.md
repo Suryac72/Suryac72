@@ -30,13 +30,13 @@
 </a>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Nestjs, Nodejs, Postgres, Java, Tailwind CSS, Typescript, Javascript**
+- 🔭 I’m currently working on **React, Nestjs, Nodejs, Postgres, Java, Tailwind CSS, Typescript, Spring Boot, and Javascript**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've a keen interest in web development. So,I'm learning **Wen Development**
+- ☁️ I've a keen interest in web development. So, I'm learning **Web Development**
 
-- 💬 Ask me about **React, Nestjs, Nodejs, Postgres, Java, Tailwind CSS, Typescript, Javascript**
+- 💬 Ask me about **React, Nestjs, Nodejs, Postgres, Java, Tailwind CSS, Typescript, Javascript, Spring Boot**
 
 - 📫 Feel free to reach me out **suryafeb082000@gmail.com**
 <!--Intro end-->
